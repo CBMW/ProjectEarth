@@ -1,0 +1,16 @@
+# OS/Editor files
+Thumbs.db
+*.DS_Store
+
+# Visual Studio / Rider / Common C# artifacts
+*.csproj
+*.sln
+*.user
+*.suo
+*.swp
+*.meta
+
+# Build folders
+Build/
+Binaries/
+Library/
